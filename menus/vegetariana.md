@@ -14,3 +14,8 @@ La cocina vegetariana se basa en ingredientes frescos, con un enfoque en legumbr
 - Zumo de naranja fresco.
 - Té helado.
 - Agua con infusión de hierbas.
+
+**Consejos**
+
+- Juega con las especias y hierbas para darle sabor a los vegetales.
+- El tofu y el tempeh son grandes sustitutos de la carne.
