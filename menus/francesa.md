@@ -11,3 +11,8 @@ La cocina francesa es sinónimo de sofisticación y técnicas culinarias refinad
 - Vino tinto Bordeaux.
 - Champán.
 - Pastis.
+
+**Consejos**
+
+- El control de la temperatura es esencial en la cocina francesa.
+- Las salsas deben ser suaves y equilibradas.
