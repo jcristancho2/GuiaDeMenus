@@ -9,3 +9,8 @@ La cocina mediterránea es fresca y saludable, con una abundancia de frutas, veg
 - **Paella**: Arroz cocinado con mariscos, pollo, conejo y verduras, condimentado con azafrán.
 - **Moussaka**: Lasaña de berenjena con carne y salsa bechamel.
 
+**Bebidas Recomendadas**
+
+- Vino tinto español o griego.
+- Agua con gas.
+- Ouzo.
