@@ -14,3 +14,8 @@ La cocina mediterránea es fresca y saludable, con una abundancia de frutas, veg
 - Vino tinto español o griego.
 - Agua con gas.
 - Ouzo.
+
+**Consejos**
+
+- Usa aceite de oliva de buena calidad.
+- Asegúrate de que el arroz esté perfectamente cocido en la paella.
