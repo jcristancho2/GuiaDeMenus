@@ -13,3 +13,8 @@ Los postres ofrecen un final dulce y satisfactorio, desde los más ligeros hasta
 - Café espresso.
 - Licor de cacao o licor de naranja.
 - Vino dulce (Marsala o Moscato).
+
+**Consejos**
+
+- El tiramisú debe reposar unas horas en la nevera antes de servir.
+- Sirve los postres con una bebida caliente para equilibrar el sabor.
