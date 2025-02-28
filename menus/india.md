@@ -13,3 +13,7 @@ La cocina india es conocida por su uso de especias como el comino, cardamomo, c�
 - Lassi (yogur batido).
 - Té masala chai.
 - Cerveza india (Kingfisher).
+**Consejos**
+
+- Las especias son la base, así que no temas usar generosamente.
+- Acompaña con pan naan para un toque auténtico.
