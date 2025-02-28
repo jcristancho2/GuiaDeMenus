@@ -12,3 +12,8 @@ La cocina japonesa se destaca por su delicadeza, frescura y el respeto por los i
 - Sake.
 - Té verde.
 - Cerveza japonesa (Asahi, Sapporo).
+
+**Consejos**
+
+- El arroz es clave, debe tener la textura adecuada para el sushi.
+- Usa wasabi con moderación, ya que es muy fuerte.
