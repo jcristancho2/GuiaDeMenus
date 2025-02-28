@@ -13,3 +13,9 @@ La cocina china ofrece una gran variedad de sabores, desde el dulce y salado has
 - Té verde o té de jazmín.
 - Sake.
 - Cerveza china (Tsingtao).
+
+**Consejos**
+
+- Los salteados deben hacerse rápidamente a fuego alto para mantener los ingredientes crujientes.
+- Sirve el pato con crepes finas y pepino fresco.
+
