@@ -12,3 +12,8 @@ La cocina mexicana se caracteriza por sus sabores vibrantes y picantes, con una 
 - Margarita.
 - Agua de horchata.
 - Tequila.
+
+**Consejos**
+
+- No olvides el picante, ¡es esencial!
+- Prepara los salsas con anticipación para que los sabores se mezclen bien.
