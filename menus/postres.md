@@ -8,3 +8,8 @@ Los postres ofrecen un final dulce y satisfactorio, desde los más ligeros hasta
 - **Crepes Suzette**: Crepes servidas con una salsa de naranja y licor.
 - **Pastel de Chocolate**: Bizcocho de chocolate denso con ganache de chocolate.
 
+**Bebidas Recomendadas**
+
+- Café espresso.
+- Licor de cacao o licor de naranja.
+- Vino dulce (Marsala o Moscato).
