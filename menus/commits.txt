@@ -1,0 +1,59 @@
+commit 7ce74a19e42284fe5342ad8d72198ca481bcf835
+Author: jcristancho2 <jocristanchool@gmail.com>
+Date:   Fri Feb 28 11:47:34 2025 -0500
+
+    📝 docs:recomendaciones
+
+commit 52c600544fd610b5005af02e99be1d4d99aa1a67
+Author: jcristancho2 <jocristanchool@gmail.com>
+Date:   Fri Feb 28 11:46:58 2025 -0500
+
+    📝 docs:bebidas
+
+commit 297de3b5060e1090edeff484163d465dbf61678a
+Author: jcristancho2 <jocristanchool@gmail.com>
+Date:   Fri Feb 28 11:46:31 2025 -0500
+
+    📝 docs:platos principales
+
+commit 1a5a66305ad4adf0b10ea50cddcc711db6196e78
+Author: jcristancho2 <jocristanchool@gmail.com>
+Date:   Fri Feb 28 11:46:06 2025 -0500
+
+    📝 docs:descripcion
+
+commit 1716b536313f20d6264bc7093c39eeb278150a8a
+Author: jcristancho2 <jocristanchool@gmail.com>
+Date:   Fri Feb 28 11:45:03 2025 -0500
+
+    📝 docs:titulo del menu
+
+commit 5e3bb656204b33a44c7902a86d8215db9bff7a1c
+Author: jcristancho2 <jocristanchool@gmail.com>
+Date:   Fri Feb 28 11:34:35 2025 -0500
+
+    consejos
+
+commit 22bcde808c20481cb4fdd1a5c27b4e48669fbc83
+Author: jcristancho2 <jocristanchool@gmail.com>
+Date:   Fri Feb 28 11:34:11 2025 -0500
+
+    bebidas recomendadas
+
+commit f1fbc0f7da8e13ec70d917143e7d996bbc16ebb3
+Author: jcristancho2 <jocristanchool@gmail.com>
+Date:   Fri Feb 28 11:33:34 2025 -0500
+
+    platos principales
+
+commit fb34a3baa582de8dd5af7324f6259186048a2a54
+Author: jcristancho2 <jocristanchool@gmail.com>
+Date:   Fri Feb 28 11:32:58 2025 -0500
+
+    descripcion tipo de cocina
+
+commit 62495f98494e3ffda1762b3acde1aa601404c074
+Author: jcristancho2 <jocristanchool@gmail.com>
+Date:   Fri Feb 28 11:32:05 2025 -0500
+
+    agregar titulo del menu
