@@ -9,7 +9,7 @@ La cocina francesa es sinónimo de sofisticación y técnicas culinarias refinad
 **Bebidas Recomendadas**
 
 - Vino tinto Bordeaux.
-- Champán.
+- Champán. 
 - Pastis.
 
 **Consejos**
