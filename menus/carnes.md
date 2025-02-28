@@ -14,3 +14,8 @@ La cocina de carnes resalta cortes jugosos y sabrosos, preparados con técnicas 
 - Vino tinto robusto (Malbec o Cabernet Sauvignon).
 - Cerveza.
 - Whiskey.
+
+**Consejos**
+
+- Sazona bien las carnes antes de cocinarlas.
+- Deja reposar las carnes después de cocinarlas para que retengan los jugos.
